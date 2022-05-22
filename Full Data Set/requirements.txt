@@ -1,0 +1,13 @@
+# pytorch
+torch~=1.7.1
+
+# Others
+Anaconda~=1.9.12
+Sptder~=3.8.3
+seaborn~=0.10.0
+matplotlib~=3.2.1
+numpy~=1.18.3
+scipy
+scikit-learn
+pandas~=1.0.3
+
