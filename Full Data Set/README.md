@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/248896172.svg)](https://zenodo.org/badge/latestdoi/248896172)
 
-# Livid About COVID
+# Full Dat Set
 COVID-19 has impacted the State of Texas and the world in unprecedented ways. The goal of
 our work is to help the City of San Antonio and the State of Texas in understanding the spread 
 of the COVID-19 pandemic. We have designed a generic AI model for forecasting the spread of the
